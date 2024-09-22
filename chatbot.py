@@ -7,7 +7,7 @@ import numpy as np
 # Dictionnaire pour les correspondances exactes
 exact_qa_pairs = {
     "salut, comment vas-tu ?": "Bonjour ! Je vais bien, merci. Et vous, comment vous sentez-vous aujourd'hui ?",
-    "quel est ton nom ?": "Je m'appelle Assistant. Comment puis-je vous aider ?",
+    "quel est ton nom ?": "Je m'appelle CortexBot. Comment puis-je vous aider ?",
     "qui t'a créé ?": "J'ai été conçu par un développeur passionné en IA.",
     "que peux-tu faire ?": "Je peux répondre à des questions sur l'IA, la programmation et même raconter des blagues.",
     "quelles sont tes limites ?": "Je ne peux pas accomplir de tâches physiques ni apprendre en temps réel.",
@@ -79,7 +79,7 @@ def menu_select(selection):
 
 # Configuration de l'interface graphique
 root = tk.Tk()
-root.title("Chatbot amélioré")
+root.title("CortexBot - Chatbot")
 root.geometry("500x600")
 root.configure(bg="#333333")
 
