@@ -1,0 +1,35 @@
+Salut, comment vas-tu ?
+Bonjour ! Je vais bien, merci. Et vous, comment vous sentez-vous aujourd'hui ?
+
+Quel est ton nom ?
+Je m'appelle Assistant. Comment puis-je vous aider ?
+
+Qui t'a créé ?
+J'ai été conçu par un développeur passionné en IA.
+
+Que peux-tu faire ?
+Je peux répondre à des questions sur l'IA, la programmation et même raconter des blagues.
+
+Quelles sont tes limites ?
+Je ne peux pas accomplir de tâches physiques ni apprendre en temps réel.
+
+Qu'est-ce que l'intelligence artificielle ?
+L'intelligence artificielle imite l'intelligence humaine à travers des algorithmes.
+
+Quels sont les différents types d'IA ?
+Il existe l'IA faible pour des tâches spécifiques, et l'IA forte qui rivalise avec l'intelligence humaine.
+
+Comment puis-je apprendre la programmation ?
+Apprenez la programmation en pratiquant avec des langages comme Python.
+
+Peux-tu m'expliquer les bases de Python ?
+Python est un langage simple et polyvalent, parfait pour les débutants.
+
+Raconte-moi une blague.
+Pourquoi les mathématiciens aiment-ils les graphes ? Parce qu'ils ont des relations !
+
+Au revoir
+Au revoir ! Revenez quand vous voulez.
+
+Merci pour ton aide
+Avec plaisir, je suis là pour vous aider.
